@@ -15,8 +15,10 @@
 
 ## Screenshots de la app
 - Le damos guardar y guarda el dato en la base
-![Imagen de WhatsApp 2023-10-17 a las 16 36 27_9afe2f0f](https://github.com/josepvazquezp/video_download_app/assets/74749686/f77d1f2c-955d-407d-aa72-e5811c00c9cd)
+- ![Imagen de WhatsApp 2023-10-17 a las 16 36 27_9afe2f0f](https://github.com/josepvazquezp/video_download_app/assets/74749686/f77d1f2c-955d-407d-aa72-e5811c00c9cd)
+
 - Cerramos la app
-![Imagen de WhatsApp 2023-10-17 a las 16 36 08_44c05bd7](https://github.com/josepvazquezp/video_download_app/assets/74749686/080358cf-7480-48e1-bc9d-ce3d0eece6ae)
+- ![Imagen de WhatsApp 2023-10-17 a las 16 36 08_44c05bd7](https://github.com/josepvazquezp/video_download_app/assets/74749686/080358cf-7480-48e1-bc9d-ce3d0eece6ae)
+
 - Mover a carga el dato guardado en la base
-![Imagen de WhatsApp 2023-10-17 a las 16 36 27_9afe2f0f](https://github.com/josepvazquezp/video_download_app/assets/74749686/f77d1f2c-955d-407d-aa72-e5811c00c9cd)
+- ![Imagen de WhatsApp 2023-10-17 a las 16 36 27_9afe2f0f](https://github.com/josepvazquezp/video_download_app/assets/74749686/f77d1f2c-955d-407d-aa72-e5811c00c9cd)
